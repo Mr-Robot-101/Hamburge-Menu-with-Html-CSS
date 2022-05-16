@@ -12,7 +12,7 @@ body {
     height: 100vh;
     width: 100vw;
     position: relative;
-    background-image: url(https://mr-robot-101.github.io/Hamburge-Menu-with-Html-CSS/image/bg.jpg);
+    background-image: url(https://github.com/Mr-Robot-101/Hamburge-Menu-with-Html-CSS/blob/main/image/bg.jpg?raw=true);
     background-size: cover;
     background-position: 50% 30%;
     display: flex;
